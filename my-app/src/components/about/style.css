@@ -1,0 +1,22 @@
+.about{
+    width: 65%;
+    float: right;
+    margin-right: 30px;
+
+}
+
+.cont{
+    background-color: white;
+  text-align: left;
+}
+
+.aboutH1{
+    color: rgb(143, 143, 143);
+      padding: 7px 0px 0 35px;
+
+}
+
+.aboutP{
+    padding: 7px 30px;
+    font-size: 17px;
+}

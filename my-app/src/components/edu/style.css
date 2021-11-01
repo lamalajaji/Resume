@@ -1,0 +1,23 @@
+.eduCom{
+     width: 65%;
+    float: right;
+    margin-right: 30px;
+    text-align: left;
+}
+
+
+.eduHead{
+     color: rgb(143, 143, 143);
+      padding: 7px 0px 0 35px;
+}
+
+
+.eduP{
+    padding: 7px 30px;
+    font-size: 17px;
+}
+
+.eduCom span{
+     padding: 7px 30px;
+     
+}
